@@ -1,0 +1,2 @@
+﻿Singleton.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  03-Singleton.vcxproj -> D:\0x07-projects\Windows\Debug\03-Singleton.exe
